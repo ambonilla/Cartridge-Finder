@@ -1,5 +1,5 @@
 # Cartridge-Finder
-Written in Java, built on NetBeans and using SQLite, it help the user find the cartridge for any specific printer.
+Written in Java, built on NetBeans and using SQLite, it helps the user find the cartridge for any specific printer.
 
 # Dependencies:
 [sqlite-jdbc]
